@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'bba3463554d64ba281ccbef723d3745b',
+  rootNotionPageId: '62f1c80fd1534c918efc8c42367825d5',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '中南民族大学生物信息实验室',
-  domain: 'https://abysm-shuoliu.notion.site/bba3463554d64ba281ccbef723d3745b',
+  domain: 'https://periodic-dresser-622.notion.site/62f1c80fd1534c918efc8c42367825d5',
   author: 'Shuo Liu',
 
   // open graph metadata (optional)
